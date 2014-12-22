@@ -657,7 +657,7 @@ iab lllorem Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Etiam lacu
     "set guifont=Mensch\ for\ Powerline:h14 linespace=0
     "set guifont=saxMono:h14 linespace=3
     "set guifont=Ubuntu\ Mono:h18 linespace=3
-    set guifont=Source\ Code\ Pro\ Light:h10 linespace=0
+    "set guifont=Source\ Code\ Pro\ Light:h10 linespace=0
 if has("gui_running")
 
     "colorscheme molokai
@@ -666,8 +666,8 @@ if has("gui_running")
     "colorscheme wombat256
     "colorscheme mustang
     "colorscheme mustang_silent
-    colorscheme badwolf
-    "colorscheme jellybeans
+    "colorscheme badwolf
+    colorscheme jellybeans
 
     " Remove toolbar, left scrollbar and right scrollbar
     set guioptions-=T
